@@ -1,2 +1,2 @@
 hello
-git after stash revert
+git before stash .
